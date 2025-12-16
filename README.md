@@ -28,4 +28,5 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 
 1. Clone the repository:  
 ```bash
-git clone git@github.com:mostafa-khaled77/app-1.git
+1. Clone the repository: [GitHub Repo](git@github.com:mostafa-khaled77/app-1.git)
+
