@@ -2,6 +2,8 @@
 
 A clean and modern **React** project showcasing a personal portfolio. This project includes a **Home page**, **About section**, **Portfolio showcase**, and **Contact form**, built to demonstrate React fundamentals, component-based architecture, and responsive design.
 
+---
+
 ## Features
 
 - **Home:** Welcoming landing page with a brief introduction.  
@@ -11,6 +13,8 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 - **Responsive Design:** Works seamlessly on mobile, tablet, and desktop devices.  
 - **Component-Based Structure:** Built entirely using React components for modularity and reusability.  
 
+---
+
 ## Technologies Used
 
 - **React** – Front-end library for building user interfaces  
@@ -18,8 +22,10 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 - **CSS / Modules** – Styling components with modular CSS  
 - **Git & GitHub** – Version control and deployment  
 
+---
+
 ## Installation
 
 1. Clone the repository:  
 ```bash
-https://mostafa-khaled77.github.io/React-App/
+git clone git@github.com:mostafa-khaled77/app-1.git
