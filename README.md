@@ -24,10 +24,6 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 
 ---
 
-## Installation
+## Live Demo
 
-1. Make sure you have **Node.js** and **npm** installed.  
-2. Navigate to your project folder in terminal.  
-3. Install dependencies:  
-```bash
- 
+Check out the live project here: [React Portfolio Live Demo](https://mostafa-khaled77.github.io/React-App/)
