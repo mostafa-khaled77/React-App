@@ -1,0 +1,73 @@
+
+.active {
+  background: #1abc9c !important;
+}
+.main-bg {
+  background: #2c3e50;
+}
+.primary-bg {
+  background-color: #1abc9c;
+}
+.icons a {
+  width: 40px;
+  height: 40px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+.footer-bg {
+  background: #1a252f;
+}
+.demo:after {
+  content: "";
+  width: 25%;
+  height: 3px;
+  padding-top: 5px;
+  margin-top: 5px;
+  background-color: var(--demo-color, white);
+  display: inline-block;
+  border-radius: 10px;
+}
+.demo:before {
+  content: "";
+  width: 25%;
+  height: 3px;
+  padding-top: 5px;
+  margin-top: 5px;
+  background-color: var(--demo-color, white);
+  display: inline-block;
+  border-radius: 10px;
+}
+
+/* Start portfolio sectoion */
+.modal-backdrop.show {
+  background-color: rgba(0, 0, 255, 0.379) !important;
+}
+
+.layer {
+  background-color: #2bb096 !important;
+  opacity: 0 !important;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.inner:hover .layer {
+  opacity: 0.8 !important;
+}
+.inner:hover .layer i {
+  display: block !important;
+}
+
+.layer i {
+  display: none !important;
+  font-size: 80px !important;
+  color: white !important;
+  transition: opacity 0.5s ease-in-out;
+
+}
+/* End portfolio sectoion */
+
+button{
+  background-color: #1abc9c !important;
+}
+input:focus{
+  box-shadow: none !important;
+}
