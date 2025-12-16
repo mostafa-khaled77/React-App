@@ -28,5 +28,5 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 
 1. Clone the repository:  
 
-[GitHub Repo](https://github.com/mostafa-khaled77/app-1.git)
+[GitHub Repo](https://mostafa-khaled77.github.io/React-App/)
 
