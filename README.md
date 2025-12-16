@@ -30,4 +30,4 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 2. Navigate to your project folder in terminal.  
 3. Install dependencies:  
 ```bash
-npm install
+ 
