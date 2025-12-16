@@ -26,7 +26,8 @@ A clean and modern **React** project showcasing a personal portfolio. This proje
 
 ## Installation
 
-1. Clone the repository:  
-
-[GitHub Repo](https://mostafa-khaled77.github.io/React-App/)
-
+1. Make sure you have **Node.js** and **npm** installed.  
+2. Navigate to your project folder in terminal.  
+3. Install dependencies:  
+```bash
+npm install
